@@ -10,6 +10,7 @@ function App() {
         <h2>Your Current Role</h2>
         <p className="career-goal">
           Description about yourself.
+          Description about yourself.
         </p>
       </section>
 
